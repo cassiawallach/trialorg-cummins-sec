@@ -128,4 +128,8 @@
         <name>Cummins_Trial_Console</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Sales_Console_Macros</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
